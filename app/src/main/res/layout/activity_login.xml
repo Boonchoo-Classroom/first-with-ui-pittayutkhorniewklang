@@ -44,14 +44,14 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView4" />
 
     <EditText
-        android:hint="Password"
         android:id="@+id/editTextNumberPassword3"
         android:layout_width="334dp"
         android:layout_height="64dp"
         android:ems="10"
+        android:hint="Password"
         android:inputType="numberPassword"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextTextEmailAddress" />
 
